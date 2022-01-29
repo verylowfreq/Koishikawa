@@ -1,5 +1,8 @@
 # Koishikawa
 
+![image](https://user-images.githubusercontent.com/60875431/151664450-fdcf1813-b5ca-49bb-8cc1-a7fee99d8b50.png)
+
+
 Building a Japanese Kanji wordprocessor.
 
 日本語の漢字変換ができる端末デバイスの製作。
